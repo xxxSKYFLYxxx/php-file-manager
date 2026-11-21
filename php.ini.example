@@ -1,0 +1,8 @@
+; Пример. Примените значения в php.ini используемого PHP и перезапустите сервер.
+file_uploads = On
+upload_max_filesize = 20M
+post_max_size = 25M
+max_file_uploads = 10
+memory_limit = 128M
+max_input_time = 60
+max_execution_time = 30
